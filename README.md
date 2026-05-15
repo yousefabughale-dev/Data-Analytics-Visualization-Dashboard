@@ -1,4 +1,4 @@
-# 📊 Project A3: AI-Powered Customer Feedback Dashboard & Chatbot
+# 📊 Project: AI-Powered Customer Feedback Dashboard & Chatbot
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)
